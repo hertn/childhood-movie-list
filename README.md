@@ -81,10 +81,8 @@ Posters, descriptions and trailers come from Stremio's built-in Cinemeta. This a
 ### Live Action
 
 - Honey, I Shrunk the Kids (1989)
-- Home Alone (1990)
 - Problem Child (1990)
 - Hook (1991)
-- Home Alone 2: Lost in New York (1992)
 - Honey, I Blew Up the Kid (1992)
 - The Mighty Ducks (1992)
 - Dennis the Menace (1993)
@@ -150,10 +148,8 @@ Posters, descriptions and trailers come from Stremio's built-in Cinemeta. This a
 ### Comedy
 
 - Honey, I Shrunk the Kids (1989)
-- Home Alone (1990)
 - Problem Child (1990)
 - Aladdin (1992)
-- Home Alone 2: Lost in New York (1992)
 - Honey, I Blew Up the Kid (1992)
 - The Mighty Ducks (1992)
 - Dennis the Menace (1993)
