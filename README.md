@@ -33,7 +33,6 @@ Posters, descriptions and trailers come from Stremio's built-in Cinemeta. This a
 - Alice in Wonderland (1951)
 - Lady and the Tramp (1955)
 - Sleeping Beauty (1959)
-- The Parent Trap (1961)
 - The Jungle Book (1967)
 - Robin Hood (1973)
 
@@ -81,7 +80,6 @@ Posters, descriptions and trailers come from Stremio's built-in Cinemeta. This a
 
 ### Live Action
 
-- The Parent Trap (1961)
 - Honey, I Shrunk the Kids (1989)
 - Home Alone (1990)
 - Problem Child (1990)
@@ -156,7 +154,6 @@ Posters, descriptions and trailers come from Stremio's built-in Cinemeta. This a
 
 ### Comedy
 
-- The Parent Trap (1961)
 - Honey, I Shrunk the Kids (1989)
 - Home Alone (1990)
 - Problem Child (1990)
