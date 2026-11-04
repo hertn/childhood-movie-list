@@ -109,7 +109,6 @@ Posters, descriptions and trailers come from Stremio's built-in Cinemeta. This a
 - The Parent Trap (1998)
 - Inspector Gadget (1999)
 - 102 Dalmatians (2000)
-- Harry Potter and the Sorcerer's Stone (2001)
 
 ### Adventure
 
@@ -125,7 +124,6 @@ Posters, descriptions and trailers come from Stremio's built-in Cinemeta. This a
 - Babe: Pig in the City (1998)
 - Mulan (1998)
 - Inspector Gadget (1999)
-- Harry Potter and the Sorcerer's Stone (2001)
 
 ### Magic
 
@@ -148,7 +146,6 @@ Posters, descriptions and trailers come from Stremio's built-in Cinemeta. This a
 - DragonHeart (1996)
 - Matilda (1996)
 - Anastasia (1997)
-- Harry Potter and the Sorcerer's Stone (2001)
 
 ### Comedy
 
