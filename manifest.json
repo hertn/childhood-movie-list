@@ -1,0 +1,51 @@
+{
+ "id": "com.hertn.childhoodmovies",
+ "version": "1.0.0",
+ "name": "Hert's Childhood List",
+ "description": "A hand-picked 90s childhood watchlist by mood.",
+ "resources": [
+  "catalog"
+ ],
+ "types": [
+  "movie"
+ ],
+ "catalogs": [
+  {
+   "type": "movie",
+   "id": "childhood",
+   "name": "Hert's Childhood List",
+   "extra": [
+    {
+     "name": "genre",
+     "options": [
+      "Disney Classics",
+      "Disney Renaissance",
+      "Animated",
+      "Live Action",
+      "Adventure",
+      "Magic",
+      "Comedy",
+      "Musical"
+     ],
+     "isRequired": false
+    }
+   ],
+   "genres": [
+    "Disney Classics",
+    "Disney Renaissance",
+    "Animated",
+    "Live Action",
+    "Adventure",
+    "Magic",
+    "Comedy",
+    "Musical"
+   ],
+   "extraSupported": [
+    "genre"
+   ]
+  }
+ ],
+ "idPrefixes": [
+  "tt"
+ ]
+}
