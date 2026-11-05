@@ -1,6 +1,6 @@
 {
  "id": "com.hertn.childhoodmovies",
- "version": "1.0.0",
+ "version": "1.0.1",
  "name": "Hert's Childhood List",
  "description": "A hand-picked 90s childhood watchlist by mood.",
  "resources": [
@@ -47,5 +47,6 @@
  ],
  "idPrefixes": [
   "tt"
- ]
+ ],
+ "logo": "https://hertn.github.io/childhood-movie-list/icon.svg"
 }
