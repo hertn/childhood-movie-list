@@ -2,7 +2,7 @@
  "id": "com.hertn.childhoodmovies",
  "version": "1.2.0",
  "name": "Hert's Childhood List",
- "description": "A hand-picked 90s childhood watchlist by mood.",
+ "description": "A hand-picked 80s and 90s childhood watchlist by mood.",
  "resources": [
   "catalog"
  ],
